@@ -1,0 +1,29 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      { "text": "Paris", "correct": true },
+      { "text": "Rome", "correct": false },
+      { "text": "London", "correct": false },
+      { "text": "Berlin", "correct": false }
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      { "text": "Mars", "correct": true },
+      { "text": "Venus", "correct": false },
+      { "text": "Jupiter", "correct": false },
+      { "text": "Mercury", "correct": false }
+    ]
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answers": [
+      { "text": "Isaac Newton", "correct": false },
+      { "text": "Albert Einstein", "correct": true },
+      { "text": "Niels Bohr", "correct": false },
+      { "text": "Galileo Galilei", "correct": false }
+    ]
+  }
+]
