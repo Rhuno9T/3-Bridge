@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "George Washington", "John Adams", "Thomas Jefferson"],
+    "answer": "George Washington"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": ["1945", "1940", "1950", "1939"],
+    "answer": "1945"
+  },
+  {
+    "question": "The Great Wall of China was built to protect against which group?",
+    "options": ["Mongols", "Romans", "Japanese", "Persians"],
+    "answer": "Mongols"
+  },
+  {
+    "question": "Who discovered America in 1492?",
+    "options": ["Christopher Columbus", "Marco Polo", "Leif Erikson", "Ferdinand Magellan"],
+    "answer": "Christopher Columbus"
+  },
+  {
+    "question": "The ancient city of Rome was built on how many hills?",
+    "options": ["Five", "Seven", "Nine", "Ten"],
+    "answer": "Seven"
+  },
+  {
+    "question": "Who was known as the Maid of Orléans?",
+    "options": ["Cleopatra", "Joan of Arc", "Queen Victoria", "Marie Curie"],
+    "answer": "Joan of Arc"
+  },
+  {
+    "question": "The Renaissance began in which country?",
+    "options": ["France", "Italy", "Germany", "Spain"],
+    "answer": "Italy"
+  },
+  {
+    "question": "Who was the British Prime Minister during World War II?",
+    "options": ["Winston Churchill", "Neville Chamberlain", "Margaret Thatcher", "Tony Blair"],
+    "answer": "Winston Churchill"
+  },
+  {
+    "question": "Which empire built Machu Picchu?",
+    "options": ["Inca", "Maya", "Aztec", "Roman"],
+    "answer": "Inca"
+  },
+  {
+    "question": "Who was assassinated in Sarajevo in 1914, sparking World War I?",
+    "options": ["Archduke Franz Ferdinand", "Adolf Hitler", "Joseph Stalin", "Kaiser Wilhelm II"],
+    "answer": "Archduke Franz Ferdinand"
+  }
+]
