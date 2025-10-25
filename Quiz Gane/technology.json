@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Processing Unit", "Core Processing Utility"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which company developed the Windows operating system?",
+    "options": ["Apple", "Microsoft", "Google", "IBM"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hyperlinks Text Markup Language", "HyperText Markup Language", "Home Tool Markup Language", "Hyper Tool Machine Language"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "question": "Who is known as the father of the computer?",
+    "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "What is the main function of an operating system?",
+    "options": ["To manage hardware and software resources", "To browse the internet", "To create websites", "To store data permanently"],
+    "answer": "To manage hardware and software resources"
+  },
+  {
+    "question": "Which language is primarily used for Android app development?",
+    "options": ["Swift", "Kotlin", "C#", "PHP"],
+    "answer": "Kotlin"
+  },
+  {
+    "question": "Which company created the iPhone?",
+    "options": ["Google", "Samsung", "Apple", "Nokia"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What is artificial intelligence (AI)?",
+    "options": ["A type of natural intelligence", "Machines simulating human intelligence", "A programming language", "A type of software bug"],
+    "answer": "Machines simulating human intelligence"
+  },
+  {
+    "question": "Which protocol is used for secure web browsing?",
+    "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+    "answer": "HTTPS"
+  },
+  {
+    "question": "What does GPU stand for?",
+    "options": ["Graphical Processing Unit", "Graphics Processing Unit", "General Processing Unit", "Generated Processing Utility"],
+    "answer": "Graphics Processing Unit"
+  }
+]

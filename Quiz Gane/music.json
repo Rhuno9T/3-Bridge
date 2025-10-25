@@ -1,0 +1,53 @@
+[
+  {
+    "question": "Who is known as the 'Queen of Pop'?",
+    "options": ["Madonna", "Beyoncé", "Adele", "Lady Gaga"],
+    "answer": "Madonna"
+  },
+  {
+    "question": "Which band released 'Bohemian Rhapsody'?",
+    "options": ["The Beatles", "Queen", "Rolling Stones", "Coldplay"],
+    "answer": "Queen"
+  },
+  {
+    "question": "Which artist sang 'Shape of You'?",
+    "options": ["Ed Sheeran", "Justin Bieber", "Shawn Mendes", "Bruno Mars"],
+    "answer": "Ed Sheeran"
+  },
+  {
+    "question": "What is the highest female singing voice?",
+    "options": ["Soprano", "Alto", "Mezzo-soprano", "Contralto"],
+    "answer": "Soprano"
+  },
+  {
+    "question": "Which composer wrote the 'Fifth Symphony'?",
+    "options": ["Mozart", "Bach", "Beethoven", "Tchaikovsky"],
+    "answer": "Beethoven"
+  },
+  {
+    "question": "Which music streaming platform uses a green logo?",
+    "options": ["Apple Music", "SoundCloud", "Spotify", "YouTube Music"],
+    "answer": "Spotify"
+  },
+  {
+    "question": "Who sang 'Thriller'?",
+    "options": ["Michael Jackson", "Prince", "Stevie Wonder", "James Brown"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "question": "Which singer is known for the hit 'Hello'?",
+    "options": ["Adele", "Taylor Swift", "Rihanna", "Billie Eilish"],
+    "answer": "Adele"
+  },
+  {
+    "question": "The Grammy Awards recognize excellence in which field?",
+    "options": ["Film", "Music", "Fashion", "Art"],
+    "answer": "Music"
+  },
+  {
+    "question": "What is the national instrument of Japan?",
+    "options": ["Koto", "Shamisen", "Taiko", "Biwa"],
+    "answer": "Koto"
+  }
+]
+
